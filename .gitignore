@@ -55,7 +55,11 @@
 
 # Crashlytics generated file
 <<<<<<< HEAD
+<<<<<<< HEAD
 **/crashlytics-build.properties
 =======
 **/crashlytics-build.properties
 >>>>>>> 2847c794d00b365c072d780d012f887b11c12a48
+=======
+**/crashlytics-build.properties
+>>>>>>> 67252f1f0ad19548ed9375d8988c3063eb3bf71d
